@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Datascience and Machine Learning Models
 - 🌱 I’m currently learning about Machine Learning Models
 - 💞️ I’m looking to collaborate on Datascience and it's Applications
-- 📫 How to reach me akhibannan@gmail.com
+- 📫 How to reach me akshithabannan8@gmail.com
 - 😄 Pronouns: Akshitha
 - ⚡ Fun fact: I like playing with Data
 
